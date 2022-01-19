@@ -1,0 +1,86 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#content {
+    background-image: url("img/fp.jpg");
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.row {
+    height: 30%;
+    width: 100%;
+}
+
+#info {
+    margin: 40px 40px 0 0;
+    float: right;
+    width: 30%;
+}
+
+#links {
+    margin: 80px auto 0 auto;
+    width: 1100px;
+    font-size: 20px;
+}
+
+#links a {
+    margin-left: 20px;
+}
+
+#links a {
+    text-decoration: none;
+    color: black;
+}
+
+#quote {
+    color: #203864;
+    text-align: center;
+    margin-left: 100px;
+    width: 300px;
+}
+
+#left_panel, #right_panel {
+    width: 50%;
+    height: 100%;
+    text-align: justify;
+    float: left;
+}
+
+#baner {
+    width: 100%;
+    height: auto;
+}
+
+#wrap {
+    margin: 50px auto 0 auto;
+    width: 70%;
+    height: auto;
+}
+
+#title {
+    background-color: #deebf7;
+    border: 3px solid #98b1de;
+    padding: 20px 10px;
+    text-align: center;
+    font-size: 32px;
+}
+
+#subtitle {
+    color: #203864;
+    font-size: 24px;
+}
+
+#informations {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
